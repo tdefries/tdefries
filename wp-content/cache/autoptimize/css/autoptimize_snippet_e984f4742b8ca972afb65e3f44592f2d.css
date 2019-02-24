@@ -1,0 +1,24 @@
+@font-face {font-family: "PortfolioPressCustom";src: url("//localhost/wordpress/wp-content/themes/portfolio-press/fonts/custom/portfolio-custom.eot?15931918");src: url("//localhost/wordpress/wp-content/themes/portfolio-press/fonts/custom/portfolio-custom.eot?15931918#iefix") format("embedded-opentype"),url("//localhost/wordpress/wp-content/themes/portfolio-press/fonts/custom/portfolio-custom.woff?15931918") format("woff"),url("//localhost/wordpress/wp-content/themes/portfolio-press/fonts/custom/portfolio-custom.ttf?15931918") format("truetype"),url("//localhost/wordpress/wp-content/themes/portfolio-press/fonts/custom/portfolio-custom.svg?15931918#portfolio-custom") format("svg");font-weight: 400;font-style: normal;}
+[class^=icon-]:before, [class*=" icon-"]:before {font-family: "PortfolioPressCustom";font-style: normal;font-weight: 400;speak: none;display: inline-block;text-decoration: inherit;width: 1em;margin-right: .2em;text-align: center;font-variant: normal;text-transform: none;}
+.icon-format-image:before {content: "";}
+.icon-format-gallery:before {content: "";}
+.icon-format-quote:before {content: "";}
+.icon-format-link:before {content: "";}
+.icon-format-video:before {content: "";}
+.icon-format-standard:before {content: "";}
+.icon-menu:before {content: "";}
+.icon-lock:before {content: "";}
+.icon-left-open:before {content: "";}
+.icon-right-open:before {content: "";}
+.icon-dribbble:before {content: "";}
+.icon-facebook-squared:before {content: "";}
+.icon-github-squared:before {content: "";}
+.icon-down-dir:before {content: "";}
+.icon-left-dir:before {content: "";}
+.icon-right-dir:before {content: "";}
+.icon-twitter-squared:before {content: "";}
+.icon-quote-left:before {content: "";}
+.icon-quote-right:before {content: "";}
+.icon-camera:before {content: "";}
+.icon-linkedin-squared:before {content: "";}
+.icon-chat:before {content: "";}
